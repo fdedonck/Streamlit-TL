@@ -1,0 +1,12 @@
+streamlit
+streamlit-folium
+folium
+jinja2
+pandas
+geopandas
+shapely
+matplotlib
+branca
+networkx
+numpy
+rtree
