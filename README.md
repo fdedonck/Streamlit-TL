@@ -129,7 +129,7 @@ Prerequisites
 * Python 3.8 or higher
 * Dependencies listed in `requirements.txt`
 ```
-git clone https://github.com/your-username/tl-co2-tool.git
+git clone https://github.com/Fien6-t/TL-Outil-CO2.git
 cd tl-co2-tool
 pip install -r requirements.txt
 streamlit run app.py
