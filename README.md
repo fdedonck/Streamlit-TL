@@ -4,7 +4,7 @@
 
 This web application was developed following a research mandate carried out by EGIS and 6t bureau de recherche. It allows users to simulate and evaluate the impact of modifications or extensions to public transport (PT) lines on CO₂ emissions within the Lausanne–Morges metropolitan area (PALM). The tool provides a quantified decision-support approach for comparing different PT scenarios using a calibrated modal shift model.
 
-🌐 Live App: [tl-tool-co2.streamlit.app](tl-tool-co2.streamlit.app)
+🌐 Live App: [tl-tool-co2.streamlit.app](https://tl-tool-co2.streamlit.app)
 
 > ⚠ If you see a message like *“This app has gone to sleep due to inactivity”*, click *“Yes, get this app back up”*. If needed, go to *Manage app > Reboot app*.
 > 
